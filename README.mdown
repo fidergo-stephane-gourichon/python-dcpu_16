@@ -46,6 +46,6 @@ You can use `cpu[]` to dispatch valcodes and get/set directly without having to 
 
 The CPU is a class, so you can instantiate a bunch of them. I might move memory outside the CPU so that it would be shared by CPU instances (SMP!)
 
-[0]: http://0x10c.com/doc/dcpu-16.txt
+[0]: https://web.archive.org/web/20120509184912/http://0x10c.com/doc/dcpu-16.txt
 [1]: http://www.dabeaz.com/generators/
 [2]: http://www.dabeaz.com/coroutines/
